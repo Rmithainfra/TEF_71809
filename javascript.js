@@ -18,7 +18,7 @@ var viewer = pannellum.viewer('panorama',{
   
         "image-1": {
         "type": "equirectangular",
-        "panorama": "13m.JPG",// CHANGE THE IMAGE NAME
+        "panorama": "13m.jpg",// CHANGE THE IMAGE NAME
         "hfov":200,
         "haov":360,
         "vaov":86,
@@ -31,7 +31,7 @@ var viewer = pannellum.viewer('panorama',{
 
       "image-2": {
         "type": "equirectangular",
-        "panorama": "16m.JPG",  // CHANGE THE IMAGE NAME
+        "panorama": "16m.jpg",  // CHANGE THE IMAGE NAME
         "hfov":200,
         "haov":360,
         "vaov":86,
@@ -44,7 +44,7 @@ var viewer = pannellum.viewer('panorama',{
 
       "image-3":{
         "type": "equirectangular",
-        "panorama": "19m.JPG",  // CHANGE THE IMAGE NAME
+        "panorama": "19m.jpg",  // CHANGE THE IMAGE NAME
         "hfov":200,
         "haov":360,
         "vaov":86,
@@ -56,7 +56,7 @@ var viewer = pannellum.viewer('panorama',{
     },
     "image-4":{
         "type": "equirectangular",
-        "panorama": "22m.JPG",  // CHANGE THE IMAGE NAME
+        "panorama": "22m.jpg",  // CHANGE THE IMAGE NAME
         "hfov":200,
         "haov":360,
         "vaov":86,
